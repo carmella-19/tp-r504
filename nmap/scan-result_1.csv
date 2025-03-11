@@ -1,0 +1,38 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-11 11:09 CET
+Nmap scan report for prof-HP-Compaq-Pro-6300-MT (172.16.0.2)
+Host is up (0.00031s latency).
+Nmap scan report for 172.16.0.51
+Host is up (0.0012s latency).
+Nmap scan report for 172.16.0.68
+Host is up (0.00081s latency).
+Nmap scan report for 172.16.0.73
+Host is up (0.0013s latency).
+Nmap scan report for 172.16.0.77
+Host is up (0.0012s latency).
+Nmap scan report for 172.16.0.81
+Host is up (0.0010s latency).
+Nmap scan report for 172.16.0.88
+Host is up (0.00085s latency).
+Nmap scan report for 172.16.0.89
+Host is up (0.00054s latency).
+Nmap scan report for 172.16.0.96
+Host is up (0.00060s latency).
+Nmap scan report for 172.16.0.130
+Host is up (0.00067s latency).
+Nmap scan report for 172.16.0.133
+Host is up (0.00056s latency).
+Nmap scan report for 172.16.0.155
+Host is up (0.00046s latency).
+Nmap scan report for 172.16.0.158
+Host is up (0.0011s latency).
+Nmap scan report for 172.16.0.168
+Host is up (0.00088s latency).
+Nmap scan report for 172.16.0.185
+Host is up (0.00091s latency).
+Nmap scan report for 172.16.0.248
+Host is up (0.013s latency).
+Nmap scan report for _gateway (172.16.0.252)
+Host is up (0.00071s latency).
+Nmap scan report for 172.16.0.253
+Host is up (0.0011s latency).
+Nmap done: 256 IP addresses (18 hosts up) scanned in 2.22 seconds
